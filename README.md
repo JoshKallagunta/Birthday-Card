@@ -1,2 +1,3 @@
 # Birthday-Card
-Simple HTML Birthday card 
+Simple HTML / CSS Birthday card 
+
