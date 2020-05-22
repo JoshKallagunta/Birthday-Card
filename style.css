@@ -162,7 +162,6 @@ a {
 
 @font-face {
   font-family: "lemon";
-  src: url('fonts/LemonJellyPersonalUse-dEqR.ttf');
   src: url('fonts/LemonJellyPersonalUse-dEqR.ttf?#iefix') format('embedded-opentype'),
        url('fonts/LemonJellyPersonalUse-dEqR.ttf') format('truetype');
   font-size: normal;
