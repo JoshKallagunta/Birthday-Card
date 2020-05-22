@@ -162,8 +162,12 @@ a {
 
 @font-face {
   font-family: "lemon";
+  src: url('fonts/LemonJellyPersonalUse-dEqR.ttf');
   src: url('fonts/LemonJellyPersonalUse-dEqR.ttf?#iefix') format('embedded-opentype'),
-       url('fonts/LemonJellyPersonalUse-dEqR.ttf') format('truetype');
+       url('fonts/LemonJellyPersonalUse-dEqR.ttf') format('truetype')
+       url('fonts/LemonJellyPersonalUse-dEqR.woff') format('woff'),
+       url('fonts/LemonJellyPersonalUse-dEqR.svg#akagibook') format('svg');
+       
   font-size: normal;
   font-weight: 100;
 
