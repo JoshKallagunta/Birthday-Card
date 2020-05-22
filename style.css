@@ -210,14 +210,6 @@ carousel-inner > .item-active > img {
   width: 950px;
 }
 
-/* 
-.carousel {
-  margin: 0 auto;
-  width: 640px;
-  height: 360px;
-}
-*/ 
-
 .btn {
   color: inherit;
   font: inherit;
